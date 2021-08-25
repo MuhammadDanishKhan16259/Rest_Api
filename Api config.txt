@@ -1,0 +1,7 @@
+user:cand
+pass:2xGh0A2qIIfb77Ao
+RUN: node .\server.js
+GET: http://localhost:5000/
+POST: http://localhost:5000/api/posts
+
+
